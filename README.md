@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BharadwajYellapragada
+- 👀 I’m interested in Fullstack Web/App Development
+- 🌱 I’m currently learning SWIFT
+- 💞️ I’m looking to collaborate with startups
+- 📫 How to reach me, saisrinivasabharadwaj@gmail.com
